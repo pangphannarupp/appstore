@@ -2,14 +2,14 @@
     {
         "app_name": "លំហាត់ថ្នាក់ទី១២",
         "app_id": "phanna.app.test12",
-        "app_url": "https://raw.githubusercontent.com/pangphannarupp/appstore/main/apk/test12.apk",
+        "app_url": "https://raw.githubusercontent.com/pangphannarupp/appstore/main/apk/com.phanna.app.komnapkhmer.5.1.2.apk",
         "app_icon": "https://raw.githubusercontent.com/pangphannarupp/appstore/main/icon/test12.png",
         "app_thumbnail": "https://raw.githubusercontent.com/pangphannarupp/appstore/main/thumbnail/test12.png"
     },
     {
         "app_name": "លំហាត់ថ្នាក់ទី៩",
         "app_id": "phanna.app.test9",
-        "app_url": "https://raw.githubusercontent.com/pangphannarupp/appstore/main/apk/test9.apk",
+        "app_url": "https://raw.githubusercontent.com/pangphannarupp/appstore/main/apk/com.phanna.app.komnapkhmer.5.1.2.apk",
         "app_icon": "https://raw.githubusercontent.com/pangphannarupp/appstore/main/icon/test9.png",
         "app_thumbnail": "https://raw.githubusercontent.com/pangphannarupp/appstore/main/thumbnail/test9.png"
     }
