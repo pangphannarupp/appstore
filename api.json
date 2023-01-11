@@ -1,0 +1,16 @@
+[
+    {
+        "app_name": "លំហាត់ថ្នាក់ទី១២",
+        "app_id": "phanna.app.test12",
+        "app_url": "/apk/test12.apk",
+        "app_icon": "/iconicon.png",
+        "app_thumbnail": "/thumbnail/thumbnail.png"
+    },
+    {
+        "app_name": "លំហាត់ថ្នាក់ទី៩",
+        "app_id": "phanna.app.test9",
+        "app_url": "/apk/test9.apk",
+        "app_icon": "/icon/icon.png",
+        "app_thumbnail": "/thumbnail/thumbnail.png"
+    }
+]
