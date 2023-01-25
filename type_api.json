@@ -22,5 +22,9 @@
     {
         "type_name": "Other",
         "type_id": 100
+    },
+    {
+        "type_name": "Test",
+        "type_id": 200
     }
 ]
