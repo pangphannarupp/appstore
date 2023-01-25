@@ -1,0 +1,26 @@
+[
+    {
+        "type_name": "Education",
+        "type_id": 1
+    },
+    {
+        "type_name": "Dictionary",
+        "type_id": 2
+    },
+    {
+        "type_name": "MP3",
+        "type_id": 3
+    },
+    {
+        "type_name": "Movie",
+        "type_id": 4
+    },
+    {
+        "type_name": "Game",
+        "type_id": 5
+    },
+    {
+        "type_name": "Other",
+        "type_id": 100
+    }
+]
